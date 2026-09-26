@@ -1,0 +1,8 @@
+# Build output
+Show Desktop.app/
+AppIcon.iconset/
+*.icns
+ShowDesktop
+
+# macOS
+.DS_Store
